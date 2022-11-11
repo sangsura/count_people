@@ -1,6 +1,6 @@
 import streamlit as st
 from PIL import Image
-import api
+
 from retinaface import RetinaFace
 import numpy as np
 
